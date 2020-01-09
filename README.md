@@ -1,2 +1,2 @@
 # python4actuaries
-Material for presentation at CAS RPM 2018
+Material for presentation at CAS RPM 2020
